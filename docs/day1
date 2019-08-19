@@ -1,0 +1,52 @@
+For you?
+Javascript is interpreted and not compiled.
+diff between browser js and OS js.
+Dependencies vs dev  Dependencies
+
+Where does javascript run?
+1. Browser (right)
+2. OS (aka terminal) -> node js  ……..   [node <file_name>]
+
+major.minor.patch - version standard
+
+Npm - node package manager
+Why need -
+	1. To share and earn/help other
+	2. Reusability
+
+with Npm  we can :
+1. Create packages [—]
+2. Manage
+3. Publish them
+
+Data representation
+1. JSon 
+2. XML
+3. Yaml
+
+To run my code I need chalk
+But to run chat I need color-convert
+
+so indirectly I need color-convert
+
+
+npm install <lib name> OR npm i <lib_name>
+
+Flags: 
+1. —save or -s
+2. —save-dev or -D
+
+Git add <file_name>
+Git add .
+Git status
+Git commit -m “message”
+Git log
+
+Git push
+git pull
+
+Task Day 1
+1. Use package chalk to print
+2. Write all example of logical operators page from javascript page into multiple js files
+3. Create a npm script to run all the files at once
+4. Commit the code the online GitHub repository 
