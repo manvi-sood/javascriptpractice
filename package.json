@@ -7,7 +7,8 @@
     "chalk": "node index.js",
     "chalk-anim": "node main.js",
     "run-all": "node index.js && node main.js",
-    "run-all-rev": "node main.js && node index.js"
+    "run-all-rev": "node main.js && node index.js",
+    "chalky":"node day1.js"
   },
   "keywords": [
     "npm",
